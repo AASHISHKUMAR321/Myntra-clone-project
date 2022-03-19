@@ -1,4 +1,5 @@
 # Myntra Website Clone Project
+<img src="https://aashishkumar321.netlify.app/images/projects/myntra.gif" width="90%" height="300" align="center"/>
 
 Hosted Myntra Clone Website Link : https://mahesh-jangid.github.io/Myntra-clone-project/
 
@@ -31,3 +32,11 @@ We have six member team group :
 3. JAVASCRIPT
 4. MEDIA QUERY
 5. GIT
+
+# Key learnings
+
+- How to deal with APIs.
+- How manage Code  Effeciently.
+- How Design  a Full Website from scratch.
+
+<h3>It's a great project for me to  learn new things  and make something from scratch.</h3>
